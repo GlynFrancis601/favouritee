@@ -1,0 +1,7 @@
+fname=input("enter the first name")
+lname=input("enter the last name")
+print("enter your date of birth")
+month=input("month")
+day=int(input("day?"))
+year=int(input("year?"))
+print (fname,lname,"was born on",month,day,",",year)
